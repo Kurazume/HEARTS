@@ -12,7 +12,9 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 
 
 The andriod application for controling HEARTS using a smartphone is available.
-You can download and install it from [here](https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing).
+![Screenshot_20221128-082025](https://user-images.githubusercontent.com/9605301/204165182-c3b98cf5-971f-409b-8cf4-db72980a16b0.png)
+You can download and install it from [here](https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing) or the QR code below.
 ![QR_591105](https://user-images.githubusercontent.com/9605301/204165114-a1977753-8fab-4f0b-93de-4b295161681b.png)
+
 
 
