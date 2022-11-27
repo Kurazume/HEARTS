@@ -12,11 +12,11 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 You can download from the following URLs.
 Currently these links are restricted only for registered users.
 
-[URL for animation version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
+[URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 
 ![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
 
-[URL for animation version](https://www.microsoft.com/store/apps/9PN6M3RR7SRT)
+[URL for realistic face version](https://www.microsoft.com/store/apps/9PN6M3RR7SRT)
 
 ![QR_569171 (1)](https://user-images.githubusercontent.com/9605301/204165339-43d46ee9-c1d1-4344-99ba-9381ac4161e4.png)
 
