@@ -9,3 +9,8 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 
 
 ![AR-French_GitHub](https://user-images.githubusercontent.com/9605301/201794595-6a308bec-41aa-4f05-8498-8a31bcaecc4f.png)
+
+
+The andriod application for controling HEARTS using a smartphone is available.
+You can download and install it from [here](https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing).
+
