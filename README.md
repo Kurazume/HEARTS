@@ -8,6 +8,17 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 
 ![AR-French_GitHub](https://user-images.githubusercontent.com/9605301/201794595-6a308bec-41aa-4f05-8498-8a31bcaecc4f.png)
 
+## Download
+You can download from the following URLs.
+Currently these links are restricted only for registered users.
+
+[URL for animation version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
+
+![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
+
+[URL for animation version](https://www.microsoft.com/store/apps/9PN6M3RR7SRT)
+
+![QR_569171 (1)](https://user-images.githubusercontent.com/9605301/204165339-43d46ee9-c1d1-4344-99ba-9381ac4161e4.png)
 
 ## Controller application
 The andriod application for controling HEARTS using a smartphone is available.
