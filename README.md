@@ -17,6 +17,7 @@ Currently these links are restricted only for registered users.
 -->
 
 [URL for animated face version (restered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
+
 ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png)
 
 <!--
@@ -25,6 +26,7 @@ Currently these links are restricted only for registered users.
 -->
 
 [URL for realistic face version (restered users only)](https://www.microsoft.com/store/r/9PN6M3RR7SRT)
+
 ![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png)
 
 
