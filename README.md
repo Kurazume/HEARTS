@@ -11,18 +11,22 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 ## Download
 You can download from the following URLs.
 Currently these links are restricted only for registered users.
-
+<!--
 [URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
+![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
+-->
 
 [URL for animated face version (restered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
+![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png)
 
-![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
-
+<!--
 [URL for realistic face version](https://www.microsoft.com/store/apps/9PN6M3RR7SRT)
+![QR_569171 (1)](https://user-images.githubusercontent.com/9605301/204165339-43d46ee9-c1d1-4344-99ba-9381ac4161e4.png)
+-->
 
 [URL for realistic face version (restered users only)](https://www.microsoft.com/store/r/9PN6M3RR7SRT)
+![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png)
 
-![QR_569171 (1)](https://user-images.githubusercontent.com/9605301/204165339-43d46ee9-c1d1-4344-99ba-9381ac4161e4.png)
 
 ## Controller application
 The andriod application for controling HEARTS using a smartphone is available.
