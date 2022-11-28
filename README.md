@@ -8,7 +8,7 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 
 ![AR-French_GitHub_1280x720_2](https://user-images.githubusercontent.com/9605301/204180448-e3231fe4-0e66-4d7d-8331-ff49840db125.png)
 
-![AR-French_GitHub](https://user-images.githubusercontent.com/9605301/201794595-6a308bec-41aa-4f05-8498-8a31bcaecc4f.png)
+![AR-French_GitHub_1280x720](https://user-images.githubusercontent.com/9605301/204180650-bd0357b9-8eaa-453c-b879-4afaf15c86a3.png)
 
 ## Download
 You can download from the following URLs.
