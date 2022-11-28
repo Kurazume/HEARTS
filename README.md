@@ -6,7 +6,7 @@ HEARTS enables interaction between a caregiver and a patient during care trainin
 
 For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
-![AR-French 00_00_25_24 静止画002](https://user-images.githubusercontent.com/9605301/204179570-2344c832-1fb6-4934-83fe-ae046e34de05.png)
+![AR-French_GitHub_1280x720_2](https://user-images.githubusercontent.com/9605301/204180448-e3231fe4-0e66-4d7d-8331-ff49840db125.png)
 
 ![AR-French_GitHub](https://user-images.githubusercontent.com/9605301/201794595-6a308bec-41aa-4f05-8498-8a31bcaecc4f.png)
 
