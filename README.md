@@ -31,7 +31,7 @@ Currently these links are restricted only for registered users.
 
 
 ## Controller application
-The andriod application for controling HEARTS using a smartphone is available.
+The andriod application is available to control HEARTS with a smartphone.
 
 ![Screenshot_20221128-082025](https://user-images.githubusercontent.com/9605301/204165250-f8958f2d-161b-4b99-9534-116e89e25afc.png)
 
