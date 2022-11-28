@@ -55,5 +55,5 @@ You can download and install it from [here](https://drive.google.com/file/d/1d01
 Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Ryo Kurazume, Development of dementia care training system based on augmented reality and whole body wearable tactile sensor, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA, 2020.10.25-29, pp.4148-4154, 2020, DOI:10.1109/IROS45743.2020.9341039
 
 ## Manual
-User manual is available [here](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf)
+[User manual](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) is available.
 
