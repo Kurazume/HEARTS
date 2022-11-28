@@ -10,6 +10,9 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 
 ![AR-French_GitHub_1280x720](https://user-images.githubusercontent.com/9605301/204180650-bd0357b9-8eaa-453c-b879-4afaf15c86a3.png)
 
+## Manual
+[User manual](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) is available.
+
 ## Download
 You can download from the following URLs.
 Currently these links are restricted only for registered users.
@@ -54,6 +57,4 @@ You can download and install it from [here](https://drive.google.com/file/d/1d01
 
 Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Ryo Kurazume, Development of dementia care training system based on augmented reality and whole body wearable tactile sensor, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA, 2020.10.25-29, pp.4148-4154, 2020, DOI:10.1109/IROS45743.2020.9341039
 
-## Manual
-[User manual](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) is available.
 
