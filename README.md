@@ -40,7 +40,8 @@ You can download and install it from [here](https://drive.google.com/file/d/1d01
 ![QR_591105](https://user-images.githubusercontent.com/9605301/204165114-a1977753-8fab-4f0b-93de-4b295161681b.png)
 
 ## Papers
-Ryo Kurazume, Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Shoko Miyauchi, and Qi An, Development of AR training systems for Humanitude dementia care, Advanced Robotics, Vol.36, No.7, pp.344-358, 2022, DOI:10.1080/01691864.2021.2017342
+[Ryo Kurazume, Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Shoko Miyauchi, and Qi An, Development of AR training systems for Humanitude dementia care, Advanced Robotics, Vol.36, No.7, pp.344-358, 2022, DOI:10.1080/01691864.2021.2017342](https://doi.org/10.1080/01691864.2021.2017342)
+
 
 Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Ryo Kurazume, Development of dementia care training system based on augmented reality and whole body wearable tactile sensor, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA, 2020.10.25-29, pp.4148-4154, 2020, DOI:10.1109/IROS45743.2020.9341039
 
