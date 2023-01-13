@@ -11,7 +11,7 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 ![AR-French_GitHub_1280x720](https://user-images.githubusercontent.com/9605301/204180650-bd0357b9-8eaa-453c-b879-4afaf15c86a3.png)
 
 ## Manual
-[User manual](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) is available.
+User manual [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual-J.pdf) is available.
 
 ## Download
 You can download from the following URLs.
