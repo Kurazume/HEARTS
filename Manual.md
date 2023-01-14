@@ -1,4 +1,4 @@
-﻿# HEARTS 3 Manual
+# HEARTS 3 Manual
 
 ![image](image/1.png)
 
@@ -7,7 +7,7 @@ Kyushu University
 Ryo Kurazume
 
 kurazume@ait.kyushu-u.ac.jp
- 
+?
 ## Hardware
 
 HEARTS 3 runs on HoloLens 2 and NrealLight.
@@ -177,42 +177,15 @@ Level		Easy/Medium/Hard
 
 ## Facial expression
 
-No communication (Fear/Sadness) 
 
-![image](image/31.png)
+|  No communication<br>(Fear/Sadness)  |  Voice<br>(Normal)  | Eye contact<br>(Smile)  |
+| ---- | ---- |---- |
+| ![image](image/31.png) | ![image](image/32.png) | ![image](image/33.png) |
 
-Voice (Normal)
+|  Sudden or strong touch<br>(Surprise/Anger)| Gentle touch<br>(Smile) |
+|---- |---- |
+| ![image](image/34.png) |![image](image/35.png) |
 
-![image](image/32.png)
-
-Eye contact (Smile)
-
-![image](image/33.png)
-
- Sudden or strong touch (Surprise/Anger)                              
-
-![image](image/34.png)
-
-Gentle touch (Smile)
-
-![image](image/35.png)
-
-Smile
-
-![image](image/36.png)
-
-Anger
-
-![image](image/37.png)
-
-Surprise
-
-![image](image/38.png)
-
-Sadness
-
-![image](image/39.png)
-
-Fear
-
-![image](image/40.png)
+|  Smile  |  Anger  | Surprise  | Sadness | Fear |
+| ---- | ---- |---- |---- |---- |
+| ![image](image/36.png) | ![image](image/37.png) | ![image](image/38.png) | ![image](image/39.png) | ![image](image/40.png) |
