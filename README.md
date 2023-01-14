@@ -16,7 +16,7 @@ You can download user's manual [English](https://github.com/Kurazume/HEARTS/blob
 [Online manual](Manual.md) is also available.
 
 ## Download
-You can download from the following URLs.
+You can download HEARTS software from the following URLs.
 Currently these links are restricted only for registered users.
 <!--
 [URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
