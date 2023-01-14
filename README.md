@@ -13,6 +13,8 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 ## Manual
 User manual [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual-J.pdf) is available.
 
+[Online manual] (Manual.md) is also available.
+
 ## Download
 You can download from the following URLs.
 Currently these links are restricted only for registered users.
