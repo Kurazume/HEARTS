@@ -54,7 +54,7 @@ NrealLight (Optional)
 
 4.	Find “Humanitude anime” icon and tap it.
 
-If you cannot find the icon, tap the list icon on the right and scroll through the list.
+If you cannot find the icon, tap the list icon on the right and scroll down the list.
 
 ![image](image/11.png)
 
