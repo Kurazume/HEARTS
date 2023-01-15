@@ -24,24 +24,21 @@ Currently these links are restricted only for registered users.
 -->
 
 ### Animated face version
-![Logo300x300](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png)
+
+| Face image | QR code |
+|-|-|
+| ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png) |
 
 [URL for animated face version (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
 
-![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png)
-
-<!--
-[URL for realistic face version](https://www.microsoft.com/store/apps/9PN6M3RR7SRT)
-![QR_569171 (1)](https://user-images.githubusercontent.com/9605301/204165339-43d46ee9-c1d1-4344-99ba-9381ac4161e4.png)
--->
 
 ### Realistic face version
 
-![Thumbnail_real300](https://user-images.githubusercontent.com/9605301/204179658-c24ac404-d072-4675-a5b3-59643b3fea5c.png)
+| Face image | QR code |
+|-|-|
+| ![ReaFace](https://user-images.githubusercontent.com/9605301/204179658-c24ac404-d072-4675-a5b3-59643b3fea5c.png) | ![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png) |
 
 [URL for realistic face version (registered users only)](https://www.microsoft.com/store/r/9PN6M3RR7SRT)
-
-![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png)
 
 
 ## Controller application
@@ -58,5 +55,3 @@ You can download and install it from [here](https://drive.google.com/file/d/1d01
 
 
 Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Ryo Kurazume, Development of dementia care training system based on augmented reality and whole body wearable tactile sensor, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA, 2020.10.25-29, pp.4148-4154, 2020, DOI:10.1109/IROS45743.2020.9341039
-
-
