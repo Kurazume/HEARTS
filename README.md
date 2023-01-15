@@ -16,7 +16,7 @@ You can download user's manual [English](https://github.com/Kurazume/HEARTS/blob
 [Online manual](Manual.md) is also available.
 
 ## Download
-You can download HEARTS software from the following URLs.
+You can download the HEARTS software for HoloLens 2 from the following URLs.
 Currently these links are restricted only for registered users.
 <!--
 [URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
@@ -25,7 +25,7 @@ Currently these links are restricted only for registered users.
 
 ### Animated face version
 
-| Face image | QR code |
+| Face image | QR code<br>(only for HoloLens 2) |
 |-|-|
 | ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png) |
 
@@ -34,7 +34,7 @@ Currently these links are restricted only for registered users.
 
 ### Realistic face version
 
-| Face image | QR code |
+| Face image | QR code<br>(only for HoloLens 2) |
 |-|-|
 | ![ReaFace](https://user-images.githubusercontent.com/9605301/204179658-c24ac404-d072-4675-a5b3-59643b3fea5c.png) | ![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png) |
 
@@ -46,7 +46,7 @@ The andriod application is available to control HEARTS with a smartphone.
 
 ![Screenshot_20221128-082025](https://user-images.githubusercontent.com/9605301/204165250-f8958f2d-161b-4b99-9534-116e89e25afc.png)
 
-You can download and install it from [here](https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing) or the QR code below.
+You can download and install the Android software from [here](https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing) or the QR code below.
 
 ![QR_591105](https://user-images.githubusercontent.com/9605301/204165114-a1977753-8fab-4f0b-93de-4b295161681b.png)
 
