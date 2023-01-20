@@ -17,7 +17,7 @@ You can download user's manual in [English](https://github.com/Kurazume/HEARTS/b
 
 ## Download
 You can download the HEARTS software for HoloLens 2 from the following URLs.
-Currently these links are restricted only for registered users.
+Currently these links are restricted only for [registered users](<mailto:kurazume@ait.kyushu-u.ac.jp>.
 <!--
 [URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 ![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
@@ -29,7 +29,7 @@ Currently these links are restricted only for registered users.
 |-|-|
 | ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png) |
 
-[URL for animated face version (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
+[Microsoft Store for animated face version (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
 
 
 ### Realistic face version
@@ -38,7 +38,7 @@ Currently these links are restricted only for registered users.
 |-|-|
 | ![ReaFace](https://user-images.githubusercontent.com/9605301/204179658-c24ac404-d072-4675-a5b3-59643b3fea5c.png) | ![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png) |
 
-[URL for realistic face version (registered users only)](https://www.microsoft.com/store/r/9PN6M3RR7SRT)
+[Microsoft Store for realistic face version (registered users only)](https://www.microsoft.com/store/r/9PN6M3RR7SRT)
 
 
 ## Controller application
