@@ -4,7 +4,7 @@ HEARTS is a training system for dementia caregivers using AR technology and a re
 
 HEARTS provides interaction between a caregiver and a patient during care by overlaying the patient's face on a doll using an AR device such as HoloLens 2 or NrealLight. 
 
-For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
+For more details, please watch [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
 ![AR-French_GitHub_1280x720_2](https://user-images.githubusercontent.com/9605301/204180448-e3231fe4-0e66-4d7d-8331-ff49840db125.png)
 
@@ -17,6 +17,8 @@ https://user-images.githubusercontent.com/9605301/214725775-4be9198d-f68f-40dd-b
 Long version (Youtube)
 
 [![HEARTS demo movie](http://img.youtube.com/vi/rGXSjZfx4Iw/0.jpg)](https://www.youtube.com/watch?v=rGXSjZfx4Iw)
+
+For more videos, please watch [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
 ## Manual
 You can download user's manual in [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual-J.pdf).
