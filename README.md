@@ -14,11 +14,8 @@ For more details, please see [here](https://robotics.ait.kyushu-u.ac.jp/en/archi
 
 https://user-images.githubusercontent.com/9605301/214725775-4be9198d-f68f-40dd-b3de-92bf94dd7cd4.mp4
 
-[Youtube](https://www.youtube.com/watch?v=rGXSjZfx4Iw)
-
-<!--
+Long version (Youtube)
 [![HEARTS demo movie](http://img.youtube.com/vi/rGXSjZfx4Iw/0.jpg)](https://www.youtube.com/watch?v=rGXSjZfx4Iw)
--->
 
 ## Manual
 You can download user's manual in [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual-J.pdf).
