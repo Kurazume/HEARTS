@@ -42,7 +42,7 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 ## Controller application
 The andriod application is available to control HEARTS with a smartphone.
 
-![Screenshot_20230303-153926](https://user-images.githubusercontent.com/9605301/222649568-763442a0-0729-4903-8f6a-efd2e7dda905.png)
+![Screenshot_20230303-153926](https://user-images.githubusercontent.com/9605301/222649751-d9b37d19-c556-42ef-8075-c97c5365f0af.png)
 
 You can download and install the Android software from [here](https://drive.google.com/file/d/1mxolErebUfbyi4HmqSdmMvHaNNVckyc5/view?usp=share_link) or the QR code below.
 
