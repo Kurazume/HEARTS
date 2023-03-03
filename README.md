@@ -42,11 +42,11 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 ## Controller application
 The andriod application is available to control HEARTS with a smartphone.
 
-![Screenshot_20221128-082025](https://user-images.githubusercontent.com/9605301/204165250-f8958f2d-161b-4b99-9534-116e89e25afc.png)
+![Screenshot_20230303-153926](https://user-images.githubusercontent.com/9605301/222649568-763442a0-0729-4903-8f6a-efd2e7dda905.png)
 
-You can download and install the Android software from [here](https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing) or the QR code below.
+You can download and install the Android software from [here](https://drive.google.com/file/d/1mxolErebUfbyi4HmqSdmMvHaNNVckyc5/view?usp=share_link) or the QR code below.
 
-![QR_591105](https://user-images.githubusercontent.com/9605301/204165114-a1977753-8fab-4f0b-93de-4b295161681b.png)
+![QR_825377](https://user-images.githubusercontent.com/9605301/222649262-a054ae18-2828-42d1-a3d0-be44c96227aa.png)
 
 ## Papers
 [Ryo Kurazume, Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Shoko Miyauchi, and Qi An, Development of AR training systems for Humanitude dementia care, Advanced Robotics, Vol.36, No.7, pp.344-358, 2022, DOI:10.1080/01691864.2021.2017342](https://doi.org/10.1080/01691864.2021.2017342)
