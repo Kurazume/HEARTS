@@ -33,23 +33,11 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 ![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
 -->
 
-### Animated face version
-
 | Face image | QR code<br>(only for HoloLens 2) |
 |-|-|
 | ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png) |
 
-[Microsoft Store for animated face version (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
-
-
-### Realistic face version
-
-| Face image | QR code<br>(only for HoloLens 2) |
-|-|-|
-| ![ReaFace](https://user-images.githubusercontent.com/9605301/204179658-c24ac404-d072-4675-a5b3-59643b3fea5c.png) | ![QR_592401](https://user-images.githubusercontent.com/9605301/204165933-a86c711c-3e6b-46df-9ec7-65a5f25ae792.png) |
-
-[Microsoft Store for realistic face version (registered users only)](https://www.microsoft.com/store/r/9PN6M3RR7SRT)
-
+[Microsoft Store (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
 
 ## Controller application
 The andriod application is available to control HEARTS with a smartphone.
