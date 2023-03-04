@@ -1,4 +1,4 @@
-# HEARTS 3 Manual
+# HEARTS 4 Manual
 
 ![image](image/1.png)
 
@@ -17,7 +17,7 @@ HEARTS provides interaction between a caregiver and a patient during care by ove
 
 ## Hardware
 
-HEARTS 3 runs on HoloLens 2 and NrealLight.
+HEARTS 4 runs on HoloLens 2 and NrealLight.
 
 Android smartphone can be used as a remote controller.
 
@@ -135,48 +135,48 @@ Touch: “Not connected”, “No contact”, “Good”, “Too strong”, “T
 
 Permission may be required to install it from google drive.
 
-![image](image/24.png)
+![image](image/41.png)
 
-https://drive.google.com/file/d/1d01UCizBCGMVsgRE0b9ZFohCpLDGCvcX/view?usp=sharing
-
+https://drive.google.com/file/d/1mxolErebUfbyi4HmqSdmMvHaNNVckyc5/view?usp=share_link
  
-### How to find IP address of HoloLens 2.
-Say “What’s my IP address?”
-
-![image](image/25.png)
- 
-IP address is appeared. 
-
-In this case, IP address is “192.168.4.106”. 
-
-Set IP address to smartphone’s application.
-
-Note: HoloLens and smartphone must be in the same Wi-Fi network, and the network profile of HoloLens should be “Private”. You can set it from “Settings” -> “Network & Internet” -> “Wi-Fi” -> “!” icon in your Wi-Fi network.
+The smartphone should be connected to HoloLens 2 via Bluetooth previously.
 
 ### How to use the smartphone application.
 1.	Press “ARSocket” icon.
 
 ![image](image/26.png)
 
-2.	Set IP address of HoloLens 2 obtained above, and press “CONNECT” button.
+2.	Choose the name of HoloLens 2, and press “CONNECT” button.
 
-![image](image/27.png)
+If the name of HoloLens 2 is not found, check Bluetooth connection.
 
-3.	Press “RESET” or “EVALUATION” buttons.
+![image](image/42.png)
 
-![image](image/28.png)
+3.	Press “RESET HEAD POS.” or “START EVALUATION” buttons.
 
-4.	You can change several settings from the option menu on the upper-right corner.
+![image](image/43.png)
 
-![image](image/29.png)
+4.	Select the mode from Training or Scenario.
 
-Mode 	TRAINING/SCENARIO
+Training mode: Free training and skill evaluation.
 
-Language	English/Japanese
+Scenario mode: Training according to four scenarios.
+
+![image](image/44.png)
+
+5. The application settings can be changed from the setting page. 
+
+![image](image/45.png)
+
+Face		Young Man/Young Lady/Old Man/ Old Lady/Real Old Lady
+
+Language	日本語/English
 
 Beep		On/Off
 
 Level		Easy/Medium/Hard
+
+![image](image/46.png)
 
 ## Flow chart
 
