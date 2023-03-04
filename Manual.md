@@ -196,3 +196,7 @@ Level		Easy/Medium/Hard
 |  Smile  |  Anger  | Surprise  | Sadness | Fear |
 | ---- | ---- |---- |---- |---- |
 | ![image](image/36.png) | ![image](image/37.png) | ![image](image/38.png) | ![image](image/39.png) | ![image](image/40.png) |
+
+| Old Lady | Young Lady | Old Man | Young Man | Realistic Old Lady |
+| ---- | ---- |---- |---- |---- |
+| ![image](image/48.png) | ![image](image/49.png) | ![image](image/50.png) | ![image](image/51.png) | ![image](image/52.png) |
