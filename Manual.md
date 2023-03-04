@@ -38,7 +38,7 @@ NrealLight (Optional)
 
 ## HoloLens application
 
-### How to start “Humanitude anime” application.
+### How to start “HEARTS” application.
 1.	Push power button and wear HoloLens 2.
 
 ![image](image/7.png)
@@ -58,7 +58,7 @@ If you cannot find the icon, tap the list icon on the right and scroll down the 
 
 ![image](image/11.png)
 
-5.	Start “Humanitude anime” application.
+5.	Start “HEARTS” application.
 
 ![image](image/12.png)
 ![image](image/13.png)
@@ -103,7 +103,7 @@ Distance: ★(>140cm), ★★(70~140cm), ★★★(<70cm)
 
 Touch: “Not connected”, “No contact”, “Good”, “Too strong”, “Touch shoulders or back” (Scenario mode only) 
 
-### How to shutdown “Humanitude anime”application.
+### How to shutdown “HEARTS” application.
 1.	Tap your wrist by index finger.
 
 ![image](image/8.png)
