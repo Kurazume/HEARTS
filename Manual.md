@@ -66,7 +66,7 @@ If you cannot find the icon, tap the list icon on the right and scroll down the 
 ![image](image/14.png)
 ![image](image/15.png)
 
-### How to use “Humanitude anime” application.
+### How to use “HEARTS” application.
 1.	Place the avatar's face on the doll's face or other appropriate positions.
 
 Say “Reset”.
@@ -146,9 +146,9 @@ The smartphone should be connected to HoloLens 2 via Bluetooth previously.
 
 ![image](image/26.png)
 
-2.	Choose the name of HoloLens 2, and press “CONNECT” button.
+2.	Choose your HoloLens 2, and press “CONNECT” button.
 
-If the name of HoloLens 2 is not found, check Bluetooth connection.
+If your HoloLens 2 is not found, check Bluetooth connection.
 
 ![image](image/42.png)
 
