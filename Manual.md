@@ -52,7 +52,7 @@ NrealLight (Optional)
 
 ![image](image/10.png)
 
-4.	Find “Humanitude anime” icon and tap it.
+4.	Tap “HEARTS Humanitude AR Training ...” icon.
 
 If you cannot find the icon, tap the list icon on the right and scroll down the list.
 
