@@ -21,7 +21,7 @@ Long version (Youtube)
 For more videos, please watch [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
 ## Manual
-You can download user's manual in [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%203%20Manual-J.pdf).
+You can download user's manual in [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%204%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%204%20Manual-J.pdf).
 
 [Online manual](Manual.md) is also available.
 
