@@ -193,9 +193,9 @@ Level		Easy/Medium/Hard
 |---- |---- |
 | ![image](image/34.png) |![image](image/35.png) |
 
-|  Smile  |  Anger  | Surprise  | Sadness | Fear |
-| ---- | ---- |---- |---- |---- |
-| ![image](image/36.png) | ![image](image/37.png) | ![image](image/38.png) | ![image](image/39.png) | ![image](image/40.png) |
+|  Normal  |  Smile  |  Anger  | Surprise  | Sadness | Fear |
+| ---- | ---- | ---- |---- |---- |---- |
+| ![image](image/53.png) | ![image](image/36.png) | ![image](image/37.png) | ![image](image/38.png) | ![image](image/39.png) | ![image](image/40.png) |
 
 ## Five models
 
