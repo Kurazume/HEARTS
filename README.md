@@ -1,5 +1,7 @@
 # HumanitudE AR Training System "HEARTS"
 
+## What is "HEARTS"?
+
 HEARTS is a training system for dementia caregivers using AR technology and a real object (a doll) for the gentle and effective caregiving technique "Humanitude".
 
 HEARTS provides interaction between a caregiver and a patient during care by overlaying the patient's face on a doll using an AR device such as HoloLens 2 or NrealLight. 
@@ -7,6 +9,8 @@ HEARTS provides interaction between a caregiver and a patient during care by ove
 ![AR-French_GitHub_1280x720_2](https://user-images.githubusercontent.com/9605301/204180448-e3231fe4-0e66-4d7d-8331-ff49840db125.png)
 
 ![AR-French_GitHub_1280x720](https://user-images.githubusercontent.com/9605301/204180650-bd0357b9-8eaa-453c-b879-4afaf15c86a3.png)
+
+For more videos, please watch [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
 ## Demo movie
 
@@ -16,13 +20,12 @@ Long version (Youtube)
 
 [![HEARTS demo movie](http://img.youtube.com/vi/rGXSjZfx4Iw/0.jpg)](https://www.youtube.com/watch?v=rGXSjZfx4Iw)
 
+## Five models
 ![48](https://user-images.githubusercontent.com/9605301/229383787-13fe98c6-f22a-4084-81cd-9a01e1417128.png)
 ![49](https://user-images.githubusercontent.com/9605301/229383763-18ef822b-2791-4de7-9e62-cf8f970b2bda.png)
 ![50](https://user-images.githubusercontent.com/9605301/229383774-ebdb9deb-53bb-4630-9343-86d9e4408b7b.png)
 ![51](https://user-images.githubusercontent.com/9605301/229383779-bcd44f51-0768-4c12-bc11-a591be7a97ff.png)
 ![52](https://user-images.githubusercontent.com/9605301/229383782-59dfc593-e9ab-4fea-aad5-3dfe734f9d0b.png)
-
-For more videos, please watch [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
 ## Manual
 You can download user's manual in [English](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%204%20Manual.pdf) and [Japanese](https://github.com/Kurazume/HEARTS/blob/main/HEARTS%204%20Manual-J.pdf).
