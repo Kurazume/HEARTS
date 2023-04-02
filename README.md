@@ -10,7 +10,7 @@ HEARTS provides interaction between a caregiver and a patient during care by ove
 
 ![AR-French_GitHub_1280x720](https://user-images.githubusercontent.com/9605301/204180650-bd0357b9-8eaa-453c-b879-4afaf15c86a3.png)
 
-For more videos, please watch [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
+For more videos, please visit [here](https://robotics.ait.kyushu-u.ac.jp/en/archives/research/care).
 
 ## Demo movie
 
