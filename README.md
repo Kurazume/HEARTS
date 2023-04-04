@@ -47,7 +47,7 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 [Microsoft Store (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
 
 ## Controller application
-The andriod application is available to control HEARTS with a smartphone.
+The Android application is available to control HEARTS with a smartphone.
 
 ![Screenshot_20230303-153926](https://user-images.githubusercontent.com/9605301/222649751-d9b37d19-c556-42ef-8075-c97c5365f0af.png)
 
