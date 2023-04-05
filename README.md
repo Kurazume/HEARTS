@@ -51,9 +51,9 @@ The Android application is available to control HEARTS with a smartphone.
 
 ![Screenshot_20230303-153926](https://user-images.githubusercontent.com/9605301/222649751-d9b37d19-c556-42ef-8075-c97c5365f0af.png)
 
-You can download and install the Android software from [here](https://drive.google.com/file/d/1mxolErebUfbyi4HmqSdmMvHaNNVckyc5/view?usp=share_link) or the QR code below.
+You can download and install the Android software from [here](https://drive.google.com/file/d/1SQUuFJeqxvebNE6SUH-Ud8CIrFCJuF8f/view?usp=sharing) or the QR code below.
 
-![QR_825377](https://user-images.githubusercontent.com/9605301/222649262-a054ae18-2828-42d1-a3d0-be44c96227aa.png)
+![QR_675715](https://user-images.githubusercontent.com/9605301/229997906-0fdb0ad6-7dd8-4281-ba30-979caf65d0cb.png)
 
 ## Papers
 [Ryo Kurazume, Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Shoko Miyauchi, and Qi An, Development of AR training systems for Humanitude dementia care, Advanced Robotics, Vol.36, No.7, pp.344-358, 2022, DOI:10.1080/01691864.2021.2017342](https://doi.org/10.1080/01691864.2021.2017342)
