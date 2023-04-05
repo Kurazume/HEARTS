@@ -137,8 +137,8 @@ Permission may be required to install it from google drive.
 
 ![image](image/41.png)
 
-https://drive.google.com/file/d/1mxolErebUfbyi4HmqSdmMvHaNNVckyc5/view?usp=share_link
- 
+https://drive.google.com/file/d/1SQUuFJeqxvebNE6SUH-Ud8CIrFCJuF8f/view?usp=sharing
+
 The smartphone should be connected to HoloLens 2 via Bluetooth previously.
 
 ### How to use the smartphone application.
