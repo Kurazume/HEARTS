@@ -83,7 +83,7 @@ You can use the smartphone application (explained later).
 
 2.	How to start/stop the evaluation.
 
-Say “Evaluation”. The scores will be changed.
+Say “HYO-KA”. The scores will be changed.
  
 ![image](image/18.png)
 
