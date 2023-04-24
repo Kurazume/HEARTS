@@ -103,6 +103,16 @@ Distance: ★(>140cm), ★★(70~140cm), ★★★(<70cm)
 
 Touch: “Not connected”, “No contact”, “Good”, “Too strong”, “Touch shoulders or back” (Scenario mode only) 
 
+3. How to change models.
+
+Say “Face”. The model will be changed.
+
+Order of models
+
+Old Lady   →  Old Man   →  Young Lady →  Young Man → Old Lady(Realistic)
+
+![image](image/48.png)  ![image](image/50.png) ![image](image/49.png) ![image](image/51.png)  ![image](image/52.png)
+
 ### How to shutdown “HEARTS” application.
 1.	Tap your wrist by index finger.
 
