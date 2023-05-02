@@ -45,7 +45,8 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 | ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png) |
 
 [Microsoft Store (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
-[Microsoft Store (registered users only)](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
+
+[Microsoft Store (registered users only, App Store)](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 
 
 ## Controller application
