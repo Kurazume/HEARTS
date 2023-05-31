@@ -34,8 +34,8 @@ You can download user's manual in [English](https://github.com/Kurazume/HEARTS/b
 
 ## Download
 You can download the HEARTS software for HoloLens 2 from the following URLs.
-Currently these links are restricted only for [registered users](<mailto:kurazume@ait.kyushu-u.ac.jp>).
 <!--
+Currently these links are restricted only for [registered users](<mailto:kurazume@ait.kyushu-u.ac.jp>).
 [URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 ![QR_570075 (1)](https://user-images.githubusercontent.com/9605301/204165332-efe682ce-5631-4044-bd98-e6ec1c5b3141.png)
 -->
@@ -44,10 +44,7 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 |-|-|
 | ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_592370](https://user-images.githubusercontent.com/9605301/204165923-2aa24d99-bde2-4ac9-85d9-25add54bb60e.png) |
 
-[Microsoft Store (registered users only)](https://www.microsoft.com/store/r/9NFZ609S2JW2)
-
-[Microsoft Store (registered users only, App Store)](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
-
+[Microsoft Store (registered users only)](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 
 ## Controller application
 The Android application is available to control HEARTS with a smartphone.
