@@ -42,7 +42,7 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 
 | Face image | QR code<br>(only for HoloLens 2) |
 |-|-|
-| ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_571395](https://github.com/Kurazume/HEARTS/assets/9605301/07789ae2-a884-48cc-8e33-261610e582f3)
+| ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_571596](https://github.com/Kurazume/HEARTS/assets/9605301/915b5b6f-f78a-41e7-8500-1e6160ad41c8) |
 
 [Microsoft Store ](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 
