@@ -33,7 +33,7 @@ You can download user's manual in [English](https://github.com/Kurazume/HEARTS/b
 [Online manual](Manual.md) is also available.
 
 ## Download
-You can download the HEARTS software for HoloLens 2 from the [Microsoft Store](https://www.microsoft.com/store/apps/9NFZ609S2JW2).
+You can download the HEARTS software for HoloLens 2 from [Microsoft Store](https://www.microsoft.com/store/apps/9NFZ609S2JW2).
 <!--
 Currently these links are restricted only for [registered users](<mailto:kurazume@ait.kyushu-u.ac.jp>).
 [URL for animated face version](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
