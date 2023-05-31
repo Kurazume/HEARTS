@@ -44,7 +44,7 @@ Currently these links are restricted only for [registered users](<mailto:kurazum
 |-|-|
 | ![AnumatedFace](https://user-images.githubusercontent.com/9605301/204179616-f3b4b5fe-b17a-4da4-9fe6-1f9883de869c.png) | ![QR_571395](https://github.com/Kurazume/HEARTS/assets/9605301/07789ae2-a884-48cc-8e33-261610e582f3)
 
-[Microsoft Store (registered users only)](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
+[Microsoft Store ](https://www.microsoft.com/store/apps/9NFZ609S2JW2)
 
 ## Controller application
 The Android application is available to control HEARTS with a smartphone.
