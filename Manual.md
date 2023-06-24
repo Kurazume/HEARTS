@@ -15,6 +15,14 @@ HEARTS is a training system for dementia caregivers using AR technology and a re
 
 HEARTS provides interaction between a caregiver and a patient during care by overlaying the patient's face on a doll using an AR device such as HoloLens 2 or NrealLight.
 
+## Copyright
+
+Kurazume Laboratory, Kyushu University reserves all right with respect to copyright.
+
+## Restrictions
+
+This application is available only for personal use for educational purpose. Unauthorized commercial use, redistribution, and modifications are strictly prohibited.
+
 ## Hardware
 
 HEARTS 4 runs on HoloLens 2 and NrealLight.
