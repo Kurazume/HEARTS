@@ -55,6 +55,15 @@ You can download and install the Android software from [here](https://drive.goog
 
 ![QR_675715](https://user-images.githubusercontent.com/9605301/229997906-0fdb0ad6-7dd8-4281-ba30-979caf65d0cb.png)
 
+
+## Copyright
+
+Kurazume Laboratory, Kyushu University reserves all right with respect to copyright.
+
+## Restrictions
+
+This application is available only for personal use for educational purpose. Unauthorized commercial use, redistribution, and modifications are strictly prohibited.
+
 ## Papers
 [Ryo Kurazume, Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Shoko Miyauchi, and Qi An, Development of AR training systems for Humanitude dementia care, Advanced Robotics, Vol.36, No.7, pp.344-358, 2022, DOI:10.1080/01691864.2021.2017342](https://doi.org/10.1080/01691864.2021.2017342)
 
