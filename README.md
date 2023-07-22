@@ -69,3 +69,5 @@ This application is available only for personal use for educational purpose. Una
 
 
 [Tomoki Hiramatsu, Masaya Kamei, Daiji Inoue, Akihiro Kawamura, Ryo Kurazume, Development of dementia care training system based on augmented reality and whole body wearable tactile sensor, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA, 2020.10.25-29, pp.4148-4154, 2020, DOI:10.1109/IROS45743.2020.9341039](https://ieeexplore.ieee.org/document/9341039)
+
+[Augmented reality-based affective training for improving care communication skill and empathy, Atsushi Nakazawa, Miyuki Iwamoto, Ryo Kurazume, Masato Nunoi, Masaki Kobayashi, Miwako Honda, PLOS ONE, Vol.18, No.7, e0288175, 2023, DOI:10.1371/journal.pone.0288175](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288175)
